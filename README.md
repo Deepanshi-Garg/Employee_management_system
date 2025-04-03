@@ -53,6 +53,10 @@ Ensure you have the following installed:
    ```
 
 ## API Endpoints
+## Base URL
+```
+https://employee-management-system-b3f6.onrender.com
+```
 ### User Routes
 | Method | Endpoint       | Description |
 |--------|--------------|-------------|
